@@ -1,3 +1,2 @@
-arduino-exemplos
-================
+# Examples using Arduino and distance sensors
 
